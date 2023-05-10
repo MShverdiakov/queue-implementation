@@ -1,0 +1,6 @@
+﻿  dop.cpp
+D:\лабы программирование с++\source\repos\2sem\lab11\lab11dop\lab11dop\dop.h(2,11): fatal error C1083: Не удается открыть файл включение: C:\\Users\\shverd\\source\\repos\\lab11\\lab11libBin\\lab11libBin\\baseBin.h: No such file or directory,
+  baseBin.cpp
+  lab11.cpp
+D:\лабы программирование с++\source\repos\2sem\lab11\lab11lib\lab11.cpp(7,10): fatal error C1083: Не удается открыть файл включение: C:\\Users\\shverd\source\\repos\lab11\\lab11dop\\lab11dop\\dop.h: No such file or directory,
+  Создание кода...
